@@ -1,16 +1,16 @@
-# GenAI-SecCheck 🤖
+# GenAI-SecCheck 
 
 **Hybrid Security Scanner for AI-Integrated Software Development**
 
-## 🎯 What is This?
+## What is This?
 
 A security scanner that detects **BOTH** traditional vulnerabilities (SQLi, XSS, etc.) AND **GenAI-specific vulnerabilities** (Prompt Injection, Data Poisoning, etc.) that existing tools miss.
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/genai-seccheck
+git clone https://github.com/genai-seccheck/genai-seccheck
 cd genai-seccheck
 
 # 2. Build the scanner
